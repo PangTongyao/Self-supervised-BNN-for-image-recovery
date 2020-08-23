@@ -19,6 +19,11 @@ python3 demo_image.py --gpu 0 ----CS_ratio 40
 ## How to cite
 
 ```
-
+@article{pang2020self,
+  title={Self-supervised Bayesian Deep Learning for Image Recovery with Applications to Compressive Sensing},
+  author={Pang, Tongyao and Quan, Yuhui and Ji, Hui},
+  booktitle={ECCV},
+  year={2020}
+}
 ```
 
