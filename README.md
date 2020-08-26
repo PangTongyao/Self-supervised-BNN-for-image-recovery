@@ -1,7 +1,7 @@
 # Self-supervised Bayesian Deep Learning for Image Recovery with Applications to  Compressive Sensing
 
 This repository is an Pytorch implementation of the paper ["Self-supervised Bayesian Deep Learning for
-Image Recovery with Applications to  Compressive Sensing"](https://drive.google.com/open?id=1tatE9WFNSqzLm_aso3Wy05j90_wkMmo4).
+Image Recovery with Applications to  Compressive Sensing"](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560460.pdf).
 
 ## How to use
 
