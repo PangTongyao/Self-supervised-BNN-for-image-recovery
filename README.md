@@ -10,7 +10,7 @@ The file *demo_image.py*  provides a demo for solving block-wise Gaussian compre
 
 
 ```python
-python3 demo_image.py --gpu 0 ----CS_ratio 40 
+python3 demo_image.py --gpu 0 --CS_ratio 40 
 ```
 
 
